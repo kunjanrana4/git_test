@@ -1,3 +1,5 @@
 Hello World, test!
 A little change in the file!
-Today is a great day.
+Yesterday was a great day.
+Today I am logging in from Linux Mint.
+I ran into a lot of errors along the way as my windows bootloading got messed up!
